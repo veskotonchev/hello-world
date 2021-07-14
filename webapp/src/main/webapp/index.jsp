@@ -6,4 +6,4 @@
 <br>    
 <h1>Now test the auto push after a change is commit.</h1>
 <p style="color:red">Work as fuck :)</p>
-blah
+blahff
