@@ -7,4 +7,4 @@
 <h1>Now test the auto push after a change is commit.</h1>
 <p style="color:red">Work as  fuck :) :)</p>
 
-<h1> Hello, Welcome to to the living!</h1>
+<h1> Hello, Welcome to to the living! Automation?</h1>
