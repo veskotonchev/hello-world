@@ -17,4 +17,4 @@ now?
 <br>
 Testing docker automation #3
 <br>
-test #5 auto push Docker
+test #6 auto push Docker
