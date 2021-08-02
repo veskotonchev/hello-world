@@ -16,3 +16,5 @@ now?
 <h1>This time this shit works as fuck</h1>
 <br>
 Testing docker automation #3
+<br>
+test #4 auto push Docker
